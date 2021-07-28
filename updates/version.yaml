@@ -1,0 +1,4 @@
+1.0.1: First version of Robots
+1.0.2:
+    - 'Set the default settings after install'
+    - initialize_database.php
